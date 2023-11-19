@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aminefer.github.io/static/css/main.64d9a3c5.css",
+    "main.js": "/aminefer.github.io/static/js/main.8311ed26.js",
+    "index.html": "/aminefer.github.io/index.html",
+    "main.64d9a3c5.css.map": "/aminefer.github.io/static/css/main.64d9a3c5.css.map",
+    "main.8311ed26.js.map": "/aminefer.github.io/static/js/main.8311ed26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64d9a3c5.css",
+    "static/js/main.8311ed26.js"
+  ]
+}
